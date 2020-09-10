@@ -1,5 +1,7 @@
 CORRIDOR
 
+This wide corridor extends away to the left and right, lit by a number of dull red emergency LEDs in the floor.
+
 Choices
-01-02 > Turn left and move along the corridor
-01-02 > Turn right and move along the corridor
+01-02 > Turn left and walk along the corridor
+01-03 > Turn right and walk along the corridor
