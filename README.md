@@ -1,2 +1,2 @@
 # First-repo
-Random collection
+Random collection of files
